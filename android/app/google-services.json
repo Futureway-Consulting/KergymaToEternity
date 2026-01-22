@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483216805812",
+    "project_id": "parresia-c9cb6",
+    "storage_bucket": "parresia-c9cb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483216805812:android:45fd217dd69e878ce72ce1",
+        "android_client_info": {
+          "package_name": "com.example.admin_page_parresia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvbfgYgY-B0A6Q4qFpRafut5IzQeMYU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483216805812:android:b560369c8168397ee72ce1",
+        "android_client_info": {
+          "package_name": "com.futureway.kergyma_to_eternity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvbfgYgY-B0A6Q4qFpRafut5IzQeMYU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
