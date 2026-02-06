@@ -1,7 +1,7 @@
 name: kergymaToEternity
 description: "Boldness and Confidence of Faith to speak"
 publish_to: 'none'
-version: 0.1.0+3
+version: 0.0.1+1
 
 environment:
   sdk: ^3.10.0
