@@ -106,7 +106,15 @@ class _ImageCarousel extends State<ImageCarousel> {
                   fadeInDuration: Duration.zero,
 
                   errorWidget: (_, __, ___) =>
-                      const Center(child: Icon(Icons.error, size: 40)),
+                      const Center(child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Icon( Icons.error, size: 40, color: Colors.red,),
+                          Text( "Sorry the image could not be loaded. Please try again later or restart the app.")
+
+                        ]
+                      ),
+                ),
                 ),
               );
             },

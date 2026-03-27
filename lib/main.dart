@@ -25,5 +25,6 @@ class MyApp extends StatelessWidget {
         '/home': (context) => const ImageCarousel(),
       },
     );
-  }
+  } 
+  
 }
